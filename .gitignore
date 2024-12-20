@@ -1,0 +1,6 @@
+# dependencies
+/docker/nginx/log
+/node_modules
+/.pnp
+.idea
+.pnp.js
